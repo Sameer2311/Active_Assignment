@@ -1,1 +1,2 @@
-this is file 1 2n change 
+this is file 1 2n change
+file 1 changed by f2 
