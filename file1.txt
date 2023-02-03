@@ -1,2 +1,3 @@
 this is file 1 2n change
 file 1 changed by f2 
+13.	Managing changes back to your local pc from GitHub
